@@ -1,0 +1,5 @@
+chmod u+x xx* x*x *xx *x*x *x*x* x*x*
+chmod g+rw *
+chmod o-w *
+chmod o+r a* b*
+chmod o-r *d *e  
